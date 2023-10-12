@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($NUM [[:number:]] [[:number:]]
+echo $NUM \d \d

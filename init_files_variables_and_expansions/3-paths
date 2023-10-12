@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "6"
+find -mindepht 1 -type d | wc -l

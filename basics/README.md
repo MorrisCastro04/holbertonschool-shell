@@ -1,6 +1,6 @@
 # Shell basics commands
 
-each file is a script that execute a shell command:
+Each file is a script that execute a shell command:
 * Task 0 Print current working directory **pwd**
 * Task 1 Display the contents list **ls**
 * Task 2 User home directory **cd**

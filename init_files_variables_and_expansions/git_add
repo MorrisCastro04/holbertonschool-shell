@@ -1,7 +1,0 @@
-#!/bin/bash
-echo Enter your commit:
-read CommitMessage
-git add .
-git commit -m "$CommitMessage"
-git push
-
